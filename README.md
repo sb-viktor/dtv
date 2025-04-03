@@ -11,7 +11,7 @@ A simple Python script to display the directory tree structure in the terminal
 when running the script, set the folder and `-f` if you want to see along with the files
 
 ```bash
-C:\My Projects\dtv> py dtv.py "C:\My Projects\dtv"
+C:\My Projects\dtv> dtv "C:\My Projects\dtv"
 
 Directory tree for 'C:\My Projects\dtv':
 ├── .git
